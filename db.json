@@ -1,0 +1,214 @@
+{
+  "bouquets": [
+    {
+      "id": "0001",
+      "nome": "Doce Carinho",
+      "descricao": "Um arranjo alegre no vaso de vidro!",
+      "imagem": "/bouquetImages/0001.jpeg",
+      "valor": 100
+    },
+    {
+      "id": "0002",
+      "nome": "Todo Amor para Você",
+      "descricao": "Um arranjo lindo no vaso de vidro!",
+      "imagem": "/bouquetImages/0002.jpeg",
+      "valor": 160
+    },
+    {
+      "id": "0003",
+      "nome": "Alegria para Você",
+      "descricao": "Um arranjo romântico no vaso de vidro!",
+      "imagem": "/bouquetImages/0003.jpeg",
+      "valor": 140
+    },
+    {
+      "id": "0004",
+      "nome": "Elegante",
+      "descricao": "Um arranjo sofisticado no vaso de vidro!",
+      "imagem": "/bouquetImages/0004.jpeg",
+      "valor": 180
+    },
+    {
+      "id": "0005",
+      "nome": "Dengo com Amor",
+      "descricao": "Um arranjo romântico no vaso de vidro!",
+      "imagem": "/bouquetImages/0005.jpeg",
+      "valor": 110
+    },
+    {
+      "id": "0006",
+      "nome": "Amor Perfeito",
+      "descricao": "Um arranjo romântico no vaso de vidro!",
+      "imagem": "/bouquetImages/0006.jpeg",
+      "valor": 110
+    },
+    {
+      "id": "0007",
+      "nome": "Meu Bem Querer",
+      "descricao": "Um arranjo alegre no vaso de vidro!",
+      "imagem": "/bouquetImages/0007.jpeg",
+      "valor": 220
+    },
+    {
+      "id": "0008",
+      "nome": "Elegante Grande",
+      "descricao": "Um arranjo grandioso no vaso de vidro!",
+      "imagem": "/bouquetImages/0008.jpeg",
+      "valor": 260
+    },
+    {
+      "id": "0009",
+      "nome": "Buquê de Girassóis",
+      "descricao": "Um arranjo lindo no vaso de vidro!",
+      "imagem": "/bouquetImages/0009.jpeg",
+      "valor": 110
+    },
+    {
+      "id": "0010",
+      "nome": "Flores do Campo",
+      "descricao": "Um arranjo meigo no vaso de vidro!",
+      "imagem": "/bouquetImages/0010.jpeg",
+      "valor": 110
+    },
+    {
+      "id": "0011",
+      "nome": "Buquê de Gerberas",
+      "descricao": "Um arranjo alegre no vaso de vidro!",
+      "imagem": "/bouquetImages/0011.jpeg",
+      "valor": 120
+    },
+    {
+      "id": "0012",
+      "nome": "Buquê Misto Grande",
+      "descricao": "Um arranjo versátil no vaso de vidro!",
+      "imagem": "/bouquetImages/0012.jpeg",
+      "valor": 260
+    },
+    {
+      "id": "0013",
+      "nome": "Buquê Cor de Rosa",
+      "descricao": "Um arranjo romântico no vaso de vidro!",
+      "imagem": "/bouquetImages/0013.jpeg",
+      "valor": 290
+    },
+    {
+      "id": "0014",
+      "nome": "Você é Linda",
+      "descricao": "Um arranjo carinhoso no vaso de vidro!",
+      "imagem": "/bouquetImages/0014.jpeg",
+      "valor": 280
+    },
+    {
+      "id": "0015",
+      "nome": "Buquê de Rosas Chá",
+      "descricao": "Um arranjo meigo no vaso de vidro!",
+      "imagem": "/bouquetImages/0015.jpeg",
+      "valor": 120
+    },
+    {
+      "id": "0016",
+      "nome": "Buquê de Rosas Vermelhas",
+      "descricao": "Um arranjo clássico no vaso de vidro!",
+      "imagem": "/bouquetImages/0016.jpeg",
+      "valor": 120
+    },
+    {
+      "id": "0017",
+      "nome": "Buquê de Astromélias",
+      "descricao": "Um arranjo alegre no vaso de vidro!",
+      "imagem": "/bouquetImages/0017.jpeg",
+      "valor": 120
+    },
+    {
+      "id": "0018",
+      "nome": "Amor Lindo",
+      "descricao": "Um arranjo romântico no vaso de vidro!",
+      "imagem": "/bouquetImages/0018.jpeg",
+      "valor": 110
+    },
+    {
+      "id": "0019",
+      "nome": "Girassóis com Tango",
+      "descricao": "Um arranjo vibrante no vaso de vidro!",
+      "imagem": "/bouquetImages/0019.jpeg",
+      "valor": 100
+    },
+    {
+      "id": "0020",
+      "nome": "Orquídea Roxa",
+      "descricao": "Um arranjo sofisticado no vaso de vidro!",
+      "imagem": "/bouquetImages/0020.jpeg",
+      "valor": 180
+    },
+    {
+      "id": "0021",
+      "nome": "Azaleia Rosa",
+      "descricao": "Um arranjo vibrante no vaso de vidro!",
+      "imagem": "/bouquetImages/0021.jpeg",
+      "valor": 110
+    },
+    {
+      "id": "0022",
+      "nome": "Lírio Rosa",
+      "descricao": "Um arranjo chique no vaso de vidro!",
+      "imagem": "/bouquetImages/0022.jpeg",
+      "valor": 110
+    },
+    {
+      "id": "0023",
+      "nome": "Vaso de Antúrio",
+      "descricao": "Um arranjo vibrante no vaso de vidro!",
+      "imagem": "/bouquetImages/0023.jpeg",
+      "valor": 130
+    },
+    {
+      "id": "0024",
+      "nome": "Lírio Amarelo",
+      "descricao": "Um arranjo alegre no vaso de vidro!",
+      "imagem": "/bouquetImages/0024.jpeg",
+      "valor": 110
+    },
+    {
+      "id": "0025",
+      "nome": "Orquídea Branca",
+      "descricao": "Um arranjo alegre no vaso de vidro!",
+      "imagem": "/bouquetImages/0025.jpeg",
+      "valor": 180
+    },
+    {
+      "id": "0026",
+      "nome": "Arranjo de Girassóis",
+      "descricao": "Um arranjo alegre no cachepot de madeira!",
+      "imagem": "/bouquetImages/0026.jpeg",
+      "valor": 120
+    },
+    {
+      "id": "0027",
+      "nome": "Arranjo de Rosas Vermelhas",
+      "descricao": "Arranjo no cachepot de madeira!",
+      "imagem": "/bouquetImages/0027.jpeg",
+      "valor": 120
+    },
+    {
+      "id": "0028",
+      "nome": "Rosas Variadas",
+      "descricao": "Um arranjo romântico para presentear!",
+      "imagem": "/bouquetImages/0028.jpeg",
+      "valor": 120
+    },
+    {
+      "id": "0029",
+      "nome": "Rosas com Tango",
+      "descricao": "Um arranjo lindo para presentear!",
+      "imagem": "/bouquetImages/0029.jpeg",
+      "valor": 140
+    },
+    {
+      "id": "0030",
+      "nome": "Girassóis com Astromélias",
+      "descricao": "Um arranjo lindo para presentear!",
+      "imagem": "/bouquetImages/0030.jpeg",
+      "valor": 120
+    }
+  ]
+}
