@@ -4,7 +4,7 @@
       "id": "0001",
       "nome": "Doce Carinho",
       "descricao": "Um arranjo alegre no vaso de vidro!",
-      "imagem": "/bouquetImages/0001.jpeg",
+      "imagem": "https://raw.githubusercontent.com/camposlaura/floricultura/main/public/bouquetImages/0001.jpeg",
       "valor": 100
     },
     {
